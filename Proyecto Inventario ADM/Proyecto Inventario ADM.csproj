@@ -97,9 +97,7 @@
     <Compile Include="RegistrarSaldoAnteriorForm.Designer.cs">
       <DependentUpon>RegistrarSaldoAnteriorForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="RegistroCompraForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="RegistroCompraForm.cs" />
     <Compile Include="RegistroCompraForm.Designer.cs">
       <DependentUpon>RegistroCompraForm.cs</DependentUpon>
     </Compile>
@@ -130,15 +128,11 @@
     <Compile Include="RegistrarItemForm.Designer.cs">
       <DependentUpon>RegistrarItemForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="MainForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="MainForm.cs" />
     <Compile Include="MainForm.Designer.cs">
       <DependentUpon>MainForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="LoginForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="LoginForm.cs" />
     <Compile Include="LoginForm.Designer.cs">
       <DependentUpon>LoginForm.cs</DependentUpon>
     </Compile>
